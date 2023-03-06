@@ -1,12 +1,10 @@
-# main links
+# Site Header
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Docs Home"
+    url: http://127.0.0.1:4000/
+  - title: "Site-1"
+    url: http://127.0.0.1:4000/site-1
+  - title: "Site-2"
+    url: http://127.0.0.1:4000/site-2
+  - title: "Site-3"
+    url: http://127.0.0.1:4000/site-3
