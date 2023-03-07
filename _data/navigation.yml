@@ -1,13 +1,13 @@
 # Site Header
 main:
   - title: "Docs Home"
-    url: http://localhost:4000/
+    url: /
   - title: "NICE-1"
-    url: http://localhost:4000/NICE-1/
+    url: /NICE-1/
   - title: "NICE-2"
-    url: http://localhost:4000/NICE-2
+    url: /NICE-2/
   - title: "NICE-3"
-    url: http://localhost:4000/NICE-3
+    url: /NICE-3/
 
 NICE-1:
   - title: Section 1
