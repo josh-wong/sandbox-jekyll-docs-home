@@ -2,8 +2,8 @@ language: ruby
 cache: bundler
 gemfile: /Gemfile
 script:
+  - bundle install
   - bundle exec jekyll --source / --destination /_site --config /_config.yml
-  - bundle lock --add-platform x86_64-linux
 branches:
   only:
     # Change this to gh-pages if you're deploying using the gh-pages branch
