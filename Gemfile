@@ -3,7 +3,7 @@ gemspec
 
 gem "jekyll", "~> 3.7"
 gem "minimal-mistakes-jekyll", "~> 4.24.0"
-gem "github-pages"
+gem "github-pages", group: :jekyll_plugins
 
 # Additional plugins
 group :jekyll_plugins do
