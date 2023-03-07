@@ -1,10 +1,40 @@
 # Site Header
 main:
   - title: "Docs Home"
-    url: http://127.0.0.1:4000/
-  - title: "Site-1"
-    url: http://127.0.0.1:4000/site-1
-  - title: "Site-2"
-    url: http://127.0.0.1:4000/site-2
-  - title: "Site-3"
-    url: http://127.0.0.1:4000/site-3
+    url: http://localhost:4000/
+  - title: "NICE-1"
+    url: http://localhost:4000/NICE-1/
+  - title: "NICE-2"
+    url: http://localhost:4000/NICE-2
+  - title: "NICE-3"
+    url: http://localhost:4000/NICE-3
+
+NICE-1:
+  - title: Section 1
+    children:
+      - title: "Paige 1"
+        url: /NICE-1/paige-1/
+      - title: "Part 2"
+        url: /docs/structure/
+      - title: "Part 3"
+        url: /docs/installation/
+      - title: "Part 4"
+        url: /docs/upgrading/
+
+  - title: Section 2
+    children:
+      - title: "Part A"
+        url: /docs/quick-start-guide/
+      - title: "Part B"
+        url: /docs/structure/
+      - title: "Part C"
+        url: /docs/installation/
+      - title: "Part D"
+        url: /docs/upgrading/
+
+  - title: Extras
+    children:
+      - title: "References"
+        url: /docs/stylesheets/
+      - title: "Stuff"
+        url: /docs/javascript/
