@@ -2,7 +2,6 @@ language: ruby
 cache: bundler
 gemfile: /Gemfile
 script:
-  - bundle install
   - bundle exec jekyll --source / --destination /_site --config /_config.yml
 branches:
   only:
