@@ -142,21 +142,16 @@ defaults:
       type: docs
     values:
       layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
+
 
   # _NICE-1
   - scope:
       path: "_NICE-1"
-      type: docs
+      type: NICE-1
     values:
       layout: page
       read_time: false
-      author_profile: false
-      share: false
-      comments: false
+      share: true
       sidebar:
         nav: "NICE-1"
 
