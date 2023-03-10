@@ -10,6 +10,8 @@ main:
     url: /NICE-3/
 
 NICE-1:
+  - title: "Overview" 
+    url: /NICE-1/
   - title: Section 1
     children:
       - title: "Paige 1"
