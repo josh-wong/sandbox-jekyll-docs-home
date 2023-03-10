@@ -3,7 +3,7 @@ main:
   - title: "Docs Home"
     url: /
   - title: "NICE-1"
-    url: /NICE-1/
+    url: /NICE-1/index
   - title: "NICE-2"
     url: /NICE-2/
   - title: "NICE-3"
@@ -11,7 +11,7 @@ main:
 
 NICE-1:
   - title: "Overview" 
-    url: /NICE-1/
+    url: /NICE-1/index
   - title: Section 1
     children:
       - title: "Paige 1"
