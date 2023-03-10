@@ -1,6 +1,4 @@
 ---
-layout: page
-permalink: /NICE-1/
 ---
 
 # SITE-1 HOME

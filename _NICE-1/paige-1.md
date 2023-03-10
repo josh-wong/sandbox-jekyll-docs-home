@@ -1,6 +1,4 @@
 ---
-layout: page
-permalink: /NICE-1/paige-1
 ---
 
 # Paige 1
