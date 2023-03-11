@@ -13,9 +13,9 @@ excerpt: >
 feature_row:
   - image_path: https://www.080f53.com/assets/assets/images/~blog-banner-light-theme.jpg
     alt: "customizable"
-    title: "NICE-1"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/NICE-1/paige-1"
+    title: "Docs set #1"
+    excerpt: "This is a link to Docs set #1"
+    url: "https://www.080f53.com/docs/360-viewer/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://www.080f53.com/assets/assets/images/~blog-banner-light-theme.jpg
