@@ -17,12 +17,12 @@ subtitle                 : "Just some docs"
 name                     : &name "Josh Wong" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : "https://www.080f53.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/sandbox-jekyll-docs-home" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/docs" # the subpath of your site, e.g. "/blog"
 repository               : "josh-wong/sandbox-jekyll-docs-home" # the repository path
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true or false (default)
+breadcrumbs              : # true or false (default)
 #words_per_minute         : 200 # expected amount of time to read the page
 
 atom_feed:
