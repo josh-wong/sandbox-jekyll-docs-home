@@ -1,13 +1,13 @@
 # Site Header
 main:
   - title: "Docs Home"
-    url: /
-  - title: "NICE-1"
-    url: /NICE-1/index
-  - title: "NICE-2"
-    url: /NICE-2/
-  - title: "NICE-3"
-    url: /NICE-3/
+    url: https://www.080f53.com/docs/
+  - title: "Docs-Site-1"
+    url: https://www.080f53.com/docs/360-viewer/
+  - title: "Docs-Site-2"
+    url: https://www.080f53.com/docs/sandbox-jekyll-docs-site-2
+  - title: "Docs-Site-3"
+    url: https://www.080f53.com/docs/sandbox-jekyll-docs-site-3
 
 NICE-1:
   - title: "Overview" 
