@@ -15,7 +15,7 @@ feature_row:
     alt: "customizable"
     title: "Docs set #1"
     excerpt: "This is a link to Docs set #1"
-    url: "https://www.080f53.com/docs/360-viewer/"
+    url: "https://www.080f53.com/sandbox-jekyll-docs-site-1/360-viewer/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://www.080f53.com/assets/assets/images/~blog-banner-light-theme.jpg
