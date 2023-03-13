@@ -9,34 +9,24 @@ main:
   - title: "Docs-Site-3"
     url: https://www.080f53.com/sandbox-jekyll-docs-site-3/
 
-NICE-1:
+OTHER:
   - title: "Overview" 
-    url: /NICE-1/index
+    url: /OTHER/index
   - title: Section 1
     children:
-      - title: "Paige 1"
-        url: /NICE-1/paige-1/
-      - title: "Part 2"
-        url: /sandbox-jekyll-docs-home/structure/
-      - title: "Part 3"
-        url: /sandbox-jekyll-docs-home/installation/
-      - title: "Part 4"
-        url: /sandbox-jekyll-docs-home/upgrading/
+      - title: "UNLINKED"
+        url: /OTHER/
+
+  - title: Section 1
+    children:
+      - title: "UNLINKED"
+        url: /OTHER/
+      - title: "UNLINKED"
+        url: /OTHER/
 
   - title: Section 2
     children:
-      - title: "Part A"
-        url: /sandbox-jekyll-docs-home/quick-start-guide/
-      - title: "Part B"
-        url: /sandbox-jekyll-docs-home/structure/
-      - title: "Part C"
-        url: /sandbox-jekyll-docs-home/installation/
-      - title: "Part D"
-        url: /sandbox-jekyll-docs-home/upgrading/
-
-  - title: Extras
-    children:
-      - title: "References"
-        url: /sandbox-jekyll-docs-home/stylesheets/
-      - title: "Stuff"
-        url: /sandbox-jekyll-docs-home/javascript/
+      - title: "UNLINKED"
+        url: /OTHER/
+      - title: "UNLINKED"
+        url: /OTHER/
