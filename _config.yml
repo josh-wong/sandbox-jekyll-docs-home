@@ -129,7 +129,7 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  NICE-1:
+  OTHER:
     output: true
     permalink: /:collection/:path/
 
@@ -144,16 +144,16 @@ defaults:
       layout: single
 
 
-  # _NICE-1
+  # OTHER
   - scope:
-      path: "_NICE-1"
-      type: NICE-1
+      path: "OTHER"
+      type: OTHER
     values:
       layout: page
       read_time: false
       share: true
       sidebar:
-        nav: "NICE-1"
+        nav: "OTHER"
 
 
 # Sass/SCSS
