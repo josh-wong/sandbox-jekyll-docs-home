@@ -7,7 +7,7 @@ header:
   overlay_image: # https://www.080f53.com/assets/assets/images/~blog-banner-dark-theme.jpg
   #actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
-  #    url: "/NICE-1/paige-1/"
+  #    url: "/OTHER/"
 excerpt: >
   Nice set of docs sites👍
 feature_row:
@@ -20,16 +20,16 @@ feature_row:
     btn_label: "Learn more"
   - image_path: https://www.080f53.com/assets/assets/images/~blog-banner-light-theme.jpg
     alt: "fully responsive"
-    title: "NICE-2"
+    title: "OTHER"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/NICE-2"
+    url: "/OTHER"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://www.080f53.com/assets/assets/images/~blog-banner-light-theme.jpg
     alt: "100% free"
-    title: "NICE-3"
+    title: "OTHER"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/NICE-3"
+    url: "/OTHER"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
